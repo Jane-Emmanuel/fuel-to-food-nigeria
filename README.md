@@ -1,6 +1,6 @@
 # Fuel to Food: The Ripple Effects of Subsidy Removal on Everyday Nigerians
 
-## Week 1 — Project Introduction & Setup
+## Week 1 - Project Introduction & Setup
 
 ---
 
